@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaBackendBootcamb.Solut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.weetk_Pratik3_while-dowhile", "2.weetk_Pratik3_while-dowhile\2.weetk_Pratik3_while-dowhile.csproj", "{2107A2B9-993B-4399-B625-A73CFEC11101}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Week_Pratik_4_YolArkadası", "2.Week_Pratik_YolArkadası\2.Week_Pratik_4_YolArkadası.csproj", "{6006916E-2387-4C43-984C-210F1877EAFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,22 @@ Global
 		{2107A2B9-993B-4399-B625-A73CFEC11101}.Release|x64.Build.0 = Release|Any CPU
 		{2107A2B9-993B-4399-B625-A73CFEC11101}.Release|x86.ActiveCfg = Release|Any CPU
 		{2107A2B9-993B-4399-B625-A73CFEC11101}.Release|x86.Build.0 = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|x64.Build.0 = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Debug|x86.Build.0 = Debug|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|ARM64.Build.0 = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x64.ActiveCfg = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x64.Build.0 = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x86.ActiveCfg = Release|Any CPU
+		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

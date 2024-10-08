@@ -28,4 +28,4 @@ class Program
         while (sayaç <= limit);//Limit aşılana kadar döngü devam eder.
     }
 }
-          //while ile do-while arasındaki fark :while döngüsü koşulu döngünün başında kontrol ederken do-while için ise koşul döngü sonunda kontrol edilir.Bu neden do-while döngülerinde koşul en az 1 kez çalışırken while için böyle bir garanti vermez.
+          //while ile do-while arasındaki fark :while döngüsü koşulu döngünün başında kontrol ederken do-while için ise koşul döngü sonunda kontrol edilir.
