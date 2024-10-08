@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PatikaBackendBootcamb.Solution (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PatikaBackendBootcamb.Solution (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
