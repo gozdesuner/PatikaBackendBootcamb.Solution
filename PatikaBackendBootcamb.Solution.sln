@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatikaBackendBootcamb.Solution", "PatikaBackendBootcamb.Solution\PatikaBackendBootcamb.Solution.csproj", "{85BE884A-92D5-41CA-9949-5A8DEF55D7AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatikaBackendBootcamb.Solution", "PatikaBackendBootcamb.Solution\PatikaBackendBootcamb.Solution.csproj", "{85BE884A-92D5-41CA-9949-5A8DEF55D7AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.weetk_Pratik3_while-dowhile", "2.weetk_Pratik3_while-dowhile\2.weetk_Pratik3_while-dowhile.csproj", "{2107A2B9-993B-4399-B625-A73CFEC11101}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.weetk_Pratik3_while-dowhile", "2.weetk_Pratik3_while-dowhile\2.weetk_Pratik3_while-dowhile.csproj", "{2107A2B9-993B-4399-B625-A73CFEC11101}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Week_Pratik_4_YolArkadası", "2.Week_Pratik_YolArkadası\2.Week_Pratik_4_YolArkadası.csproj", "{6006916E-2387-4C43-984C-210F1877EAFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Week_Pratik_4_YolArkadası", "2.Week_Pratik_YolArkadası\2.Week_Pratik_4_YolArkadası.csproj", "{6006916E-2387-4C43-984C-210F1877EAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Week_Pratik_5_Ilk_Metot", "2.Week_Pratik_5_Ilk_Metot\2.Week_Pratik_5_Ilk_Metot.csproj", "{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -77,6 +79,22 @@ Global
 		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x64.Build.0 = Release|Any CPU
 		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x86.ActiveCfg = Release|Any CPU
 		{6006916E-2387-4C43-984C-210F1877EAFB}.Release|x86.Build.0 = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|x64.Build.0 = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Debug|x86.Build.0 = Debug|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|ARM64.Build.0 = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|x64.ActiveCfg = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|x64.Build.0 = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|x86.ActiveCfg = Release|Any CPU
+		{11D3AA03-9E62-4AB9-97E4-8EA75FA0089E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
