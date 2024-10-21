@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Week_Pratik_5_Ilk_Metot",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Week_Pratik_6_Metotlarve Parametreler", "2.Week_Pratik_6_Metotlarve Parametreler\2.Week_Pratik_6_Metotlarve Parametreler.csproj", "{21DD5569-72DF-4FC1-87BA-F54F8DD4D4EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_1_İlksinifimiziolusturalim", "4.Week_Pratik_1_İlksinifimiziolusturalim\4.Week_Pratik_1_İlksinifimiziolusturalim.csproj", "{272EF0B8-838B-46AA-9925-B523B71771DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Week_Pratik_1_İlksinifimiziolusturalim", "4.Week_Pratik_1_İlksinifimiziolusturalim\4.Week_Pratik_1_İlksinifimiziolusturalim.csproj", "{272EF0B8-838B-46AA-9925-B523B71771DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_2_Constructor", "4.Week_Pratik_2_Constructor\4.Week_Pratik_2_Constructor.csproj", "{B24276E3-06F8-4052-AC51-FFC63036D1EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,22 @@ Global
 		{272EF0B8-838B-46AA-9925-B523B71771DA}.Release|x64.Build.0 = Release|Any CPU
 		{272EF0B8-838B-46AA-9925-B523B71771DA}.Release|x86.ActiveCfg = Release|Any CPU
 		{272EF0B8-838B-46AA-9925-B523B71771DA}.Release|x86.Build.0 = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|x64.Build.0 = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Debug|x86.Build.0 = Debug|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|ARM64.Build.0 = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|x64.ActiveCfg = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|x64.Build.0 = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|x86.ActiveCfg = Release|Any CPU
+		{B24276E3-06F8-4052-AC51-FFC63036D1EC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
