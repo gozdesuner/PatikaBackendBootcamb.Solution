@@ -1,0 +1,1 @@
+Bu kodda, polimorfizm kullanarak ortak bir temel sınıftan türeyen farklı sınıflarda AlanHesapla() metodunu farklı şekillerde uyguluyoruz. Kare ve dikdörtgen aynı formülle alanı hesaplarken, dik üçgen farklı bir formül kullanıyor. Polimorfizm sayesinde bu farklılıkları alt sınıflarda kolayca yönetebiliyoruz.
