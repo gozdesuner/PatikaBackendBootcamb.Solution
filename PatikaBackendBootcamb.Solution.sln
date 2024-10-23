@@ -15,13 +15,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Week_Pratik_6_Metotlarve 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Week_Pratik_1_İlksinifimiziolusturalim", "4.Week_Pratik_1_İlksinifimiziolusturalim\4.Week_Pratik_1_İlksinifimiziolusturalim.csproj", "{272EF0B8-838B-46AA-9925-B523B71771DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_2_Constructor", "4.Week_Pratik_2_Constructor\4.Week_Pratik_2_Constructor.csproj", "{B24276E3-06F8-4052-AC51-FFC63036D1EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Week_Pratik_2_Constructor", "4.Week_Pratik_2_Constructor\4.Week_Pratik_2_Constructor.csproj", "{B24276E3-06F8-4052-AC51-FFC63036D1EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_3_Encapsulation", "4.Week_Pratik_3_Encapsulation\4.Week_Pratik_3_Encapsulation.csproj", "{C67567D8-45DB-4D9D-BD6A-CAD72E484775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Week_Pratik_3_Encapsulation", "4.Week_Pratik_3_Encapsulation\4.Week_Pratik_3_Encapsulation.csproj", "{C67567D8-45DB-4D9D-BD6A-CAD72E484775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_4_Kütüphane", "4.Week_Pratik_4_Kütüphane\4.Week_Pratik_4_Kütüphane.csproj", "{D479B364-E7F5-4DBC-8426-4D4B4C3F1D79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Week_Pratik_4_Kütüphane", "4.Week_Pratik_4_Kütüphane\4.Week_Pratik_4_Kütüphane.csproj", "{D479B364-E7F5-4DBC-8426-4D4B4C3F1D79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_5_Inheritance", "4.Week_Pratik_5_Inheritance\4.Week_Pratik_5_Inheritance.csproj", "{D2090FEB-1BE5-4D3A-846E-1C1C1E22A80A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Week_Pratik_5_Inheritance", "4.Week_Pratik_5_Inheritance\4.Week_Pratik_5_Inheritance.csproj", "{D2090FEB-1BE5-4D3A-846E-1C1C1E22A80A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Week_Pratik_6_Polymorphisim", "4.Week_Pratik_6_Polymorphisim\4.Week_Pratik_6_Polymorphisim.csproj", "{4983C92B-A7E6-4D74-B296-8D87E6F78633}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -203,6 +205,22 @@ Global
 		{D2090FEB-1BE5-4D3A-846E-1C1C1E22A80A}.Release|x64.Build.0 = Release|Any CPU
 		{D2090FEB-1BE5-4D3A-846E-1C1C1E22A80A}.Release|x86.ActiveCfg = Release|Any CPU
 		{D2090FEB-1BE5-4D3A-846E-1C1C1E22A80A}.Release|x86.Build.0 = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|x64.Build.0 = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Debug|x86.Build.0 = Debug|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|ARM64.Build.0 = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|x64.ActiveCfg = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|x64.Build.0 = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|x86.ActiveCfg = Release|Any CPU
+		{4983C92B-A7E6-4D74-B296-8D87E6F78633}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
