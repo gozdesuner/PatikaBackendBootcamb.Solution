@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Week_Pratik_5_Try_Catch",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Week_Pratik_Araba_Fabrikası", "5.Week_Pratik_Araba_Fabrikası\5.Week_Pratik_Araba_Fabrikası.csproj", "{F1434BB0-F50C-4787-9F89-7B38A67864E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Week_Pratik_1_Linq", "7.Week_Pratik_1_Linq\7.Week_Pratik_1_Linq.csproj", "{80D4B661-1F83-481F-8E41-60338D4D1ACE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Week_Pratik_1_Linq", "7.Week_Pratik_1_Linq\7.Week_Pratik_1_Linq.csproj", "{80D4B661-1F83-481F-8E41-60338D4D1ACE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Week_Pratik_2_PatikafyMusic", "7.Week_Pratik_2_PatikafyMusic\7.Week_Pratik_2_PatikafyMusic.csproj", "{13BB501A-7C65-444D-A357-238096CAE7E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Week_Pratik_2_PatikafyMusic", "7.Week_Pratik_2_PatikafyMusic\7.Week_Pratik_2_PatikafyMusic.csproj", "{13BB501A-7C65-444D-A357-238096CAE7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Week_Pratik_3_Patikaflix_Dizi_Platformu", "7.Week_Pratik_3_Patikaflix_Dizi_Platformu\7.Week_Pratik_3_Patikaflix_Dizi_Platformu.csproj", "{04916E40-A457-4945-8FBC-8AA3F68E4BCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -401,6 +403,22 @@ Global
 		{13BB501A-7C65-444D-A357-238096CAE7E5}.Release|x64.Build.0 = Release|Any CPU
 		{13BB501A-7C65-444D-A357-238096CAE7E5}.Release|x86.ActiveCfg = Release|Any CPU
 		{13BB501A-7C65-444D-A357-238096CAE7E5}.Release|x86.Build.0 = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|x64.Build.0 = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Debug|x86.Build.0 = Debug|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|ARM64.Build.0 = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x64.ActiveCfg = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x64.Build.0 = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x86.ActiveCfg = Release|Any CPU
+		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
