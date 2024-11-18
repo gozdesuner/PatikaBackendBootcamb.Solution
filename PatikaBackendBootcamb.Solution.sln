@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Week_Pratik_1_Linq", "7.W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Week_Pratik_2_PatikafyMusic", "7.Week_Pratik_2_PatikafyMusic\7.Week_Pratik_2_PatikafyMusic.csproj", "{13BB501A-7C65-444D-A357-238096CAE7E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Week_Pratik_3_Patikaflix_Dizi_Platformu", "7.Week_Pratik_3_Patikaflix_Dizi_Platformu\7.Week_Pratik_3_Patikaflix_Dizi_Platformu.csproj", "{04916E40-A457-4945-8FBC-8AA3F68E4BCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7.Week_Pratik_3_Patikaflix_Dizi_Platformu", "7.Week_Pratik_3_Patikaflix_Dizi_Platformu\7.Week_Pratik_3_Patikaflix_Dizi_Platformu.csproj", "{04916E40-A457-4945-8FBC-8AA3F68E4BCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Week_Pratik_4_Linq-Join", "7.Week_Pratik_4_Linq-Join\7.Week_Pratik_4_Linq-Join.csproj", "{76C92998-B56C-459F-8767-8347C9150680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -419,6 +421,22 @@ Global
 		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x64.Build.0 = Release|Any CPU
 		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x86.ActiveCfg = Release|Any CPU
 		{04916E40-A457-4945-8FBC-8AA3F68E4BCD}.Release|x86.Build.0 = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|x64.Build.0 = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Debug|x86.Build.0 = Debug|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|ARM64.Build.0 = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|x64.ActiveCfg = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|x64.Build.0 = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|x86.ActiveCfg = Release|Any CPU
+		{76C92998-B56C-459F-8767-8347C9150680}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
