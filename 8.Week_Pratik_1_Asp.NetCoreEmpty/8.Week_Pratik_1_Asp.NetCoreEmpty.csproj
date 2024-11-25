@@ -4,11 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>_8.Week_Pratik_1_Asp.NetCoreEmpty</RootNamespace>
-  </PropertyGroup>
+    <RootNamespace>Mvc2Project</RootNamespace>
+  </PropertyGroup>                      
 
   <ItemGroup>
-    <Folder Include="Models\" />
+    <PackageReference Include="Npgsql" Version="9.0.1" />
   </ItemGroup>
 
 </Project>
